@@ -1,4 +1,8 @@
-#header {
-    background: pink;
-    text-align: center;
+body{
+    width: 90%;
+    margin: 0 auto;
 }
+.stred{
+    margin: 0 auto;
+}
+
